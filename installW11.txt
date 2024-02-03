@@ -1,0 +1,11 @@
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+Invoke-RestMethod -Uri https://get.scoop.sh | Invoke-Expression
+
+Treiber?
+
+
+App Store:
+Icloud
+Apple Musik
+PowerShell
+
